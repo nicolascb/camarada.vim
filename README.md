@@ -1,6 +1,8 @@
 # camarada.vim
 A light/dark colorscheme for Vim.
 
+Screnshots using Hasklig Font, semibold and ligatures enabled.
+
 <img width="820" alt="image" src="https://user-images.githubusercontent.com/1793185/143420240-052af6c2-59a6-4488-90d8-9cff7099c8e5.png">
 
 ---
